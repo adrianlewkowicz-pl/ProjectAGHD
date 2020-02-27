@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AGHD\\AGH.API\\AGH.API.csproj": {}
+    "D:\\ProjektGrupowy\\ProjectAGHD\\AGH.API\\AGH.API.csproj": {}
   },
   "projects": {
-    "D:\\AGHD\\AGH.API\\AGH.API.csproj": {
+    "D:\\ProjektGrupowy\\ProjectAGHD\\AGH.API\\AGH.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AGHD\\AGH.API\\AGH.API.csproj",
+        "projectUniqueName": "D:\\ProjektGrupowy\\ProjectAGHD\\AGH.API\\AGH.API.csproj",
         "projectName": "AGH.API",
-        "projectPath": "D:\\AGHD\\AGH.API\\AGH.API.csproj",
+        "projectPath": "D:\\ProjektGrupowy\\ProjectAGHD\\AGH.API\\AGH.API.csproj",
         "packagesPath": "C:\\Users\\lewko\\.nuget\\packages\\",
-        "outputPath": "D:\\AGHD\\AGH.API\\obj\\",
+        "outputPath": "D:\\ProjektGrupowy\\ProjectAGHD\\AGH.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
